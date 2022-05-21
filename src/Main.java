@@ -28,41 +28,7 @@ public class Main {
 
     public static void mergeSortInc(Integer[] tab, int l,int r) {
         final int n = tab.length;
-        int step = 2;
-        while(step <=tab.length) {
-            for (int i = 0; i < n; i += step) {
-                final int size = step;
-
-                Integer[] tab1, tab2;
-                tab1 = new Integer[size / 2];
-                if (i + step / 2 - 1 < n) {
-                    //tab1 = new Integer[size / 2];
-                    for (int j = i; j < i + step / 2; ++j) {
-                        tab1[j - i] = tab[j];
-                    }
-                }
-
-                if (i + step - 1 < n) {
-                    tab2 = new Integer[size / 2];
-                    for (int j = i + step / 2; j < i + step; ++j) {
-                        tab2[j - (i + step / 2)] = tab[j];
-                    }
-
-                    Integer[] mergedArray = mergeArrays(tab1, tab2);
-                    int k = 0;
-                    for (int j = i; j < i + step; ++j) {
-                        tab[j] = mergedArray[k];
-                        k++;
-                    }
-                }else {
-                    //tab2 = new Integer[n - (i+step/2) ];
-
-                }
-
-            }
-            step*=2;
-        }
-
+        //tableau de tableau avec pour commencer n tableaux de 1 puis n/2 tableau de  2 ( + 1 de 1) ...
     }
     public static Integer[] mergeSort(Integer[] tab, int l,int r) {
         if( l!=r ) {
