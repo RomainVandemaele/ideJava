@@ -70,8 +70,7 @@ public class Main {
             Integer[] tab1 = mergeSort(tab,l,half);
             Integer[] tab2 = mergeSort(tab,half+1,r);
 
-            Integer[] sortedTab = mergeArrays(tab1,tab2);
-            return sortedTab;
+            return mergeArrays(tab1,tab2);
         }else {
             Integer[] newTab = {tab[l]};
             return newTab;
@@ -128,15 +127,20 @@ public class Main {
     }
 
 
+
+
     public static void main(String[] args) {
-        Integer[] tab = {1,34,-1,45,5,1,-85,-4,10};
+        /*Integer[] tab = {1,34,-1,45,5,1,-85,-4,10};
         Integer[] tab1 = {1,34,-1,45,5};
         Integer[] tab2 = {1,-85,-4,10};
         mergeSortInc(tab,0,tab.length-1);
         //bubbleSort(tab);
-        for (int i=0;i < tab.length;i++) {
-            System.out.print(tab[i] + " ");
-        }
-        System.out.println("Hello world!");
+        for (Integer integer : tab) {
+            System.out.print(integer + " ");
+        }*/
+        System.out.println("Helloo world!");
+
+        CalendarICS.calendarMaker("./src/schedule.txt");
+
     }
 }

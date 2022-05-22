@@ -1,0 +1,104 @@
+20220516 C "Présentation et administratif" AM P
+20220516 C "Communication" PM P
+20220517 C "Communication" AD P
+20220518 T "Algorithmes" AD P
+20220519 T "Algorithmes" AD P
+20220520 C "Communication" AD P
+20220523 T "Algorithmes" AD P
+20220524 T "Java" AD P
+20220525 T "Java" AD P
+20220527 T "Java" AD P
+20220530 C "projet professionnel" AD P
+20220531 T "Java" AD P
+20220601 T "Java" AD P
+20220602 T "Java" AD P
+20220603 T "Java" AD P
+20220607 T "SQL lite" AD P
+20220608 C "debrief test mbti" AD D
+20220609 T "SQL lite" AD P
+20220610 T "SQL lite" AD P
+20220613 T "SQL lite" AD P
+20220614 C "Marché du travail" AM P
+20220614 C "debrief test mbti" PM P
+20220615 T "OO UML" AD P
+20220616 T "OO UML" AD P
+20220617 T "SQL lite" AD P
+20220620 C Coaching "projet professionnel" AD D
+20220621 C "CV/LM" AM P
+20220621 C "Coaching "projet professionnel" PM P
+20220622 T "Git" AD P
+20220623 T "SCRUM" AD P
+20220624 C "Témoignages professionnel" AM D
+20220624 C "coaching CV" PM D
+20220627 T "OO UML" AD P
+20220628 T "OO UML" AD P
+20220629 C "evaluation intermédiaire" AM P
+20220630 C "coaching CV" AD D
+20220701 T "OO UML" AD P
+20220704 T "SCRUM" AD P
+20220705 T "E-learning" AD D
+20220706 T "Dev app android" AD P
+20220707 C "Coaching LM" AD D
+20220708 C "Coaching LM" AM D
+20220711 T "Dev app android" AD P
+20220712 T "Dev app android" AD P
+20220713 T "Dev app android" AD P
+20220714 T "Unit Testing" AD P
+20220715 T "Dev app android" AD P
+20220718 T "Kotlin" AD P
+20220719 T "Kotlin" AD P
+20220720 T "Kotlin" AD P
+20220722 T "Kotlin" AD P
+20220725 T "Kotlin" AD P
+20220726 T "Kotlin" AD P
+20220727 T "Kotlin" AD P
+20220728 T "Kotlin" AD P
+20220729 T "Kotlin" AD P
+20220801 T "Kotlin" AD P
+20220802 T "Laboratoire android" AD P
+20220803 T "Laboratoire android" AD P
+20220804 T "Laboratoire android" AD P
+20220805 T "Laboratoire android" AD P
+20220808 T "Laboratoire android" AD P
+20220809 T "E-learning" AD D
+20220810 T "Laboratoire android" AD P
+20220811 T "E-learning" AD D
+20220812 T "Laboratoire android" AD P
+20220816 T "Laboratoire android" AD P
+20220817 T "Hackathon" AD P
+20220818 T "Hackathon" AD P
+20220819 T "Hackathon" AD P
+20220822 T "UI/UX" AD P
+20220823 T "UI/UX" AD P
+20220824 T "E-learning" AD D
+20220825 T "React Native" AD P
+20220826 T "React Native" AD P
+20220829 T "React Native" AD P
+20220830 T "React Native" AD P
+20220831 T "E-learning" AD D
+20220901 T "React Native" AD P
+20220902 C "Journée collective soft skills" AD P
+20220905 T "React Native" AD P
+20220906 T "React Native" AD P
+20220907 T "React Native" AD P
+20220908 C "Préparation entretien embauche" AM
+20220909 T "React Native" AD P
+20220912 C "Simulation Entretien individuel" AD D
+20220913 C "Simulation Entretien individuel" AM D
+20220914 T "React Native" AD P
+20220915 T "Déploiement google" AD P
+20220916 T "TFE" AD P
+20220919 T "TFE" AD P
+20220920 T "E-learning" AD D
+20220921 T "TFE" AD P
+20220922 C "recherche active/Job Day" AM D
+20220923 T "TFE" AD P
+20220926 T "TFE" AD P
+20220928 T "TFE" AD P
+20220929 T "TFE" AD P
+20220930 T "Evaluation TFE" AD P
+
+
+
+
+
