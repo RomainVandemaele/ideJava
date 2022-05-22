@@ -81,7 +81,7 @@
 20220905 T "React Native" AD P
 20220906 T "React Native" AD P
 20220907 T "React Native" AD P
-20220908 C "Préparation entretien embauche" AM
+20220908 C "Préparation entretien embauche" AM D
 20220909 T "React Native" AD P
 20220912 C "Simulation Entretien individuel" AD D
 20220913 C "Simulation Entretien individuel" AM D
